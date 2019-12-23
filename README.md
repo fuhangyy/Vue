@@ -1,4 +1,12 @@
 # 前言
-主要整理了有关Vue的一些重要的特性、框架的原理和一些知识点的梳理。
 
-1. [Vue知识点梳理](https://github.com/fuhangyy/Vue-Blog/issues/1)
+每天积累一点点，不断充实自己，多年后再回头，会感谢曾经努力的自己！
+
+越努力，越幸福，加油！！
+<br/><br/> 
+
+1. Vue知识点梳理
+
+[传送门](https://github.com/fuhangyy/Vue-Blog/issues/1)
+
+
