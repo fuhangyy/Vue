@@ -5,8 +5,5 @@
 越努力，越幸福，加油！！
 <br/><br/> 
 
-1. Vue知识点梳理
-
-[传送门](https://github.com/fuhangyy/Vue-Blog/issues/1)
-
+1.[Vue知识点梳理](https://github.com/fuhangyy/Vue-Blog/issues/1)
 
