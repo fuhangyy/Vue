@@ -7,5 +7,5 @@
 
 1.[Vue中监听data变化的核心原理](https://github.com/fuhangyy/Vue-Blog/issues/1)
 
-2.[组件间的通讯](https://github.com/fuhangyy/Vue-Blog/issues/2)
+2.[Vue组件间的通讯](https://github.com/fuhangyy/Vue-Blog/issues/2)
 
