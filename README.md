@@ -9,5 +9,4 @@
 
 2.[Vue组件间的通讯](https://github.com/fuhangyy/Vue-Blog/issues/2)
 
-3.[自定义v-model](https://github.com/fuhangyy/Vue-Blog/issues/3
-
+3.[自定义v-model](https://github.com/fuhangyy/Vue-Blog/issues/3)
