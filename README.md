@@ -12,3 +12,5 @@
 3.[自定义v-model](https://github.com/fuhangyy/Vue-Blog/issues/3)
 
 4.[Vue使用小技巧](https://github.com/fuhangyy/Vue-Blog/issues/4)
+
+4.[Vuex的使用与理解](https://github.com/fuhangyy/Vue-Blog/issues/5)
